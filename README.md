@@ -9,3 +9,8 @@
 • Проведены эксперименты по выявлению аномалий и оценка точности моделей с использованием метрик ROC-AUC и F1-score.
 
 • Более подробное описание моделей и результатов в файле "КТ1-2"
+
+<p float="left">
+  <img src="iforestm.png" width="500" style="margin-right: 10px;">
+  <img src="anomaliesm.png" width=460">
+</p>
