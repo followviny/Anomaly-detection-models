@@ -12,5 +12,5 @@
 
 <p float="left">
   <img src="iforestm.png" width="400" style="margin-right: 10px;">
-  <img src="anomaliesm.png" width=370">
+  <img src="anomaliesm.png" width=368">
 </p>
