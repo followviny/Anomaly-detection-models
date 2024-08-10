@@ -11,6 +11,6 @@
 • Более подробное описание моделей и результатов в файле "КТ1-2"
 
 <p float="left">
-  <img src="iforestm.png" width="500" style="margin-right: 10px;">
-  <img src="anomaliesm.png" width=460">
+  <img src="iforestm.png" width="200" style="margin-right: 10px;">
+  <img src="anomaliesm.png" width=170">
 </p>
